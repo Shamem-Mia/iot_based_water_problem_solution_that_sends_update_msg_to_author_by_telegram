@@ -1,5 +1,5 @@
 # iot_based_water_problem_solution_that_sends_update_msg_to_author_by_telegram
-# 🌊 Water Quality Monitoring System (ESP32)
+
 
 A **complete IoT-based Water Quality Monitoring System** using **ESP32**, featuring:
 
